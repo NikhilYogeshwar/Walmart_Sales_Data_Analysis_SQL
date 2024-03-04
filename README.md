@@ -127,4 +127,7 @@ D.) Customer:
 
 10.) Which day of the week has the best average ratings per branch?
 
+# Why This Matters:
+
+Understanding Walmart's sales data not only enriches our knowledge of retail dynamics but also provides a roadmap for businesses to enhance their strategies and drive success. 
 
